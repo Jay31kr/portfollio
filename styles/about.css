@@ -61,7 +61,7 @@ body {
     right: 100px;
     height: 300px;
     width: 600px;
-    bottom: 80px;
+    top : 30px;
     flex-shrink: inherit;
 
 
